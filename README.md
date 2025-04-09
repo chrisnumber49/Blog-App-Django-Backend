@@ -1,7 +1,7 @@
 # Blog App Django Backend
 
 ## Overview
-This is the backend API for the blog application, built with Django and Django REST Framework. It provides endpoints to handle CRUD operations for blog posts, which can be accessed by the frontend React application.
+This is the backend API for the blog application, built with Django and Django REST Framework. It provides endpoints to handle CRUD operations for blog posts and comments, which can be accessed by the frontend React application.
 
 Github link of Blog App React Frontend: https://github.com/chrisnumber49/Blog-App-React-Frontend
 
