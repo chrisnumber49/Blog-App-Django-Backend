@@ -20,9 +20,9 @@ Django REST Framework for building the API.
 SQLite for local database storage.
 
 ## Project Screen Shots
-<img src="https://github.com/chrisnumber49/DjangoBlogAppBackend/blob/master/screen%20shot/demo1.PNG" width="700" > 
-<img src="https://github.com/chrisnumber49/DjangoBlogAppBackend/blob/master/screen%20shot/demo2.PNG" width="700" > 
-<img src="https://github.com/chrisnumber49/DjangoBlogAppBackend/blob/master/screen%20shot/demo3.PNG" width="700" > 
+<img src="https://github.com/chrisnumber49/Blog-App-Django-Backend/blob/master/screen%20shot/demo1.PNG" width="700" > 
+<img src="https://github.com/chrisnumber49/Blog-App-Django-Backend/blob/master/screen%20shot/demo2.PNG" width="700" > 
+<img src="https://github.com/chrisnumber49/Blog-App-Django-Backend/blob/master/screen%20shot/demo3.PNG" width="700" > 
 
 ## Installation and Setup Instructions
 
